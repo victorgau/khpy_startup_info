@@ -1,6 +1,6 @@
 # 常用資訊
 
-一些之前偶爾會看的連結... 當然是免費的優先... :p
+一些之前偶爾會看的連結... 找個地方放... (當然是免費的優先... :p
 
 ## 網頁樣板 (請自行檢閱版權相關規定) 
 
@@ -8,17 +8,17 @@
 * https://startbootstrap.com/themes/
 * https://html5up.net/
 
-## 免費字型：
+## 免費字型
 
 * [Google 思源字型](https://fonts.google.com/noto)
 
-## 免費音樂(請自行檢閱版權相關規定)：
+## 免費音樂(請自行檢閱版權相關規定)
 
 * http://dig.ccmixter.org/
 * [YouTube音樂庫](https://studio.youtube.com/channel/UC8hQpgJM4TA31fdqdaqsRCw/music)
 * [FaceBook聲音資料庫 (可免費使用在 FB 上面發佈的影片)](https://business.facebook.com/creatorstudio/fm_sound_collection?reference=redirect_from_sound_collection)
 
-## 免費圖庫 (請自行檢閱版權相關規定) ：
+## 免費圖庫 (請自行檢閱版權相關規定) 
 
 * [Unsplash](https://unsplash.com/)
 * [Pixabay](https://pixabay.com/)
@@ -63,4 +63,3 @@
 * [wired.com](https://www.wired.com/)
 * [The Huffington Post](https://www.huffpost.com/)
 * [MBALib 智庫·百科](https://wiki.mbalib.com/wiki/%E9%A6%96%E9%A1%B5)
-
